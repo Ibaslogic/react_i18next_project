@@ -2,7 +2,7 @@
   "name": "react_i18next_project_",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ibaslogic.github.io",
+  "homepage": "https://ibaslogic.github.io/react_i18next_project",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
