@@ -1,0 +1,20 @@
+{
+  "welcome text": "مرحبًا بك في البرنامج التعليمي react-i18next",
+  "formatNumber": "تنسيق {{num, number}} في اللغة المختارة",
+  "formatCurrency": "عرض {{price, currency}} دولارًا في اللغة المحددة",
+  "formatDate": "تاريخ اليوم: {{today, date}}",
+  "clickCount_0": "لقد نقرت {{count}} مرة",
+  "clickCount_1": "لقد نقرت مرة واحدة",
+  "clickCount_2": "لقد نقرت مرتين",
+  "clickCount_3": "لقد نقرت {{count}} مرات",
+  "clickCount_4": "لقد نقرت {{count}} مرة",
+  "clickCount_5": "لقد نقرت {{count}} مرة",
+  "clickButtonText": "دعنا <1> انقر فوق الزر </ 1> أدناه: ", 
+  "click": "انقر هنا",
+  "menu" : {
+    "aboutProject" : "حول المشروع",
+    "contactUs": "اتصل بنا" 
+  },
+  "app_title": "البرنامج التعليمي React-i18next",
+  "languages": "اللغات"
+}

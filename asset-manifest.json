@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react_i18next_project/static/css/main.7495fa64.chunk.css",
+    "main.js": "/react_i18next_project/static/js/main.f1813fcb.chunk.js",
+    "main.js.map": "/react_i18next_project/static/js/main.f1813fcb.chunk.js.map",
+    "runtime-main.js": "/react_i18next_project/static/js/runtime-main.714c8224.js",
+    "runtime-main.js.map": "/react_i18next_project/static/js/runtime-main.714c8224.js.map",
+    "static/js/2.792a632b.chunk.js": "/react_i18next_project/static/js/2.792a632b.chunk.js",
+    "static/js/2.792a632b.chunk.js.map": "/react_i18next_project/static/js/2.792a632b.chunk.js.map",
+    "index.html": "/react_i18next_project/index.html",
+    "static/css/main.7495fa64.chunk.css.map": "/react_i18next_project/static/css/main.7495fa64.chunk.css.map",
+    "static/js/2.792a632b.chunk.js.LICENSE.txt": "/react_i18next_project/static/js/2.792a632b.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/react_i18next_project/static/media/getFetch.582d29c4.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.714c8224.js",
+    "static/js/2.792a632b.chunk.js",
+    "static/css/main.7495fa64.chunk.css",
+    "static/js/main.f1813fcb.chunk.js"
+  ]
+}
