@@ -1,9 +1,13 @@
-# Localization (L18n) in React with i18next (Starter Project)
+# Localization (L18n) in React with i18next (Complete Project)
 
-Head over to your terminal and switch to the directory you’d like to save your project. Then run this command to download the starter files:
+## [Click to see Project Live](https://ibaslogic.github.io/react_i18next_project/)
+
+## Download the Project Files
+
+Head over to your terminal and switch to the directory you’d like to save your project. Then run this command to download the project files:
 
 ```
-git clone https://github.com/Ibaslogic/react_i18next_starter
+git clone https://github.com/Ibaslogic/react_i18next_project
 ```
 
 Once your project files have been bootstrapped, open with your favorite code editor. Make sure you are inside the project directory.

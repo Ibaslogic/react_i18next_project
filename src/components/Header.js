@@ -21,7 +21,7 @@ const Header = () => {
     { name: "English", code: "en" },
     { name: "日本語", code: "ja" },
     { name: "Français", code: "fr" },
-    { name: "العربية", code: "ar", dir: "rtl" },
+    { name: "العربية", code: "ar" }, // , dir: "rtl"
     { name: "Deutsche", code: "de" },
   ];
 
@@ -38,7 +38,7 @@ const Header = () => {
   const currentLangObj = languages.find((lang) => lang.code === currentLocale);
 
   useEffect(() => {
-    document.body.dir = currentLangObj.dir || "ltr";
+    // document.body.dir = currentLangObj.dir || "ltr";
     document.title = t("app_title");
   }, [currentLangObj, t]);
 

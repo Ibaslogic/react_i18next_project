@@ -30,6 +30,9 @@ i18n
       },
       escapeValue: false, // react already safes from xss
     },
+    backend: {
+      loadPath: "/locales/{{lng}}/translation.json",
+    },
   });
 
 export default i18n;
