@@ -1,6 +1,6 @@
 # Localization (L18n) in React with i18next (Complete Project)
 
-## [Click to see Project Live](https://ibaslogic.github.io/react_i18next_project/)
+## [Click to see Project Live](https://react-i18next-project.herokuapp.com/)
 
 ## Download the Project Files
 
