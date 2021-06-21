@@ -9,11 +9,11 @@
   "clickCount_3": "لقد نقرت {{count}} مرات",
   "clickCount_4": "لقد نقرت {{count}} مرة",
   "clickCount_5": "لقد نقرت {{count}} مرة",
-  "clickButtonText": "دعنا <1> انقر فوق الزر </ 1> أدناه: ", 
+  "clickButtonText": "دعنا <1> انقر فوق الزر </ 1> أدناه: ",
   "click": "انقر هنا",
-  "menu" : {
-    "aboutProject" : "حول المشروع",
-    "contactUs": "اتصل بنا" 
+  "menu": {
+    "aboutProject": "حول المشروع",
+    "contactUs": "اتصل بنا"
   },
   "app_title": "البرنامج التعليمي React-i18next",
   "languages": "اللغات"

@@ -22,7 +22,6 @@ const Header = () => {
     { name: "日本語", code: "ja" },
     { name: "Français", code: "fr" },
     { name: "العربية", code: "ar", dir: "rtl" },
-    { name: "Deutsche", code: "de" },
   ];
 
   const currentLocale = Cookies.get("i18next") || "en";

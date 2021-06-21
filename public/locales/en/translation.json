@@ -6,11 +6,11 @@
   "clickCount": "You've clicked {{count}} time",
   "clickCount_plural": "You've clicked {{count}} times",
   "clickButtonText": "Let's <1>click the button</1> below:",
-  "click": "Click here", 
-  "menu" : {
-    "aboutProject" : "About the project",
-    "contactUs": "Contact us" 
+  "click": "Click here",
+  "menu": {
+    "aboutProject": "About the project",
+    "contactUs": "Contact us"
   },
   "app_title": "React-i18next tutorial",
-  "languages": "Languages"  
+  "languages": "Languages"
 }

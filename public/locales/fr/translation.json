@@ -4,11 +4,11 @@
   "formatCurrency": "Affichage de {{price, currency}} dans la langue sélectionnée",
   "formatDate": "Date d'aujourd'hui: {{today, date}}",
   "clickCount": "Vous avez cliqué {{count}} fois",
-  "clickButtonText": "<1> Cliquez sur le bouton </1> ci-dessous:", 
+  "clickButtonText": "<1> Cliquez sur le bouton </1> ci-dessous:",
   "click": "Cliquez ici",
-  "menu" : {
-    "aboutProject" : "À propos du projet",
-    "contactUs": "Contactez-nous" 
+  "menu": {
+    "aboutProject": "À propos du projet",
+    "contactUs": "Contactez-nous"
   },
   "app_title": "Tutoriel React-i18next",
   "languages": "Langues"
