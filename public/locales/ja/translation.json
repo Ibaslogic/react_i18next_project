@@ -5,6 +5,7 @@
   "formatDate": "今日の日付：{{today, date}}",
   "clickCount": "{{count}}回クリックしました",
   "clickButtonText": "下のボタンを<1>クリック</ 1>しましょう：",
+  "click": "ここをクリック",
   "menu": {
     "aboutProject": "プロジェクトについて",
     "contactUs": "お問い合わせ"
