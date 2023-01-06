@@ -4,11 +4,11 @@
   "formatCurrency": "選択したロケールで{{price, currency}}を表示",
   "formatDate": "今日の日付：{{today, date}}",
   "clickCount": "{{count}}回クリックしました",
-  "clickButtonText": "下のボタンを<1>クリック</ 1>しましょう：", 
+  "clickButtonText": "下のボタンを<1>クリック</ 1>しましょう：",
   "click": "ここをクリック",
-  "menu" : {
-    "aboutProject" : "プロジェクトについて",
-    "contactUs": "お問い合わせ" 
+  "menu": {
+    "aboutProject": "プロジェクトについて",
+    "contactUs": "お問い合わせ"
   },
   "app_title": "React-i18nextチュートリアル",
   "languages": "言語"
